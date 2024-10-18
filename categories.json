@@ -1,0 +1,50 @@
+[
+  {
+    "id": "books",
+    "name": "Books",
+    "description": "",
+    "wordpressId": 5
+  },
+  {
+    "id": "general",
+    "name": "General",
+    "description": "",
+    "wordpressId": 1
+  },
+  {
+    "id": "ghosts",
+    "name": "Ghosts",
+    "description": "",
+    "wordpressId": 7
+  },
+  {
+    "id": "news",
+    "name": "News",
+    "description": "",
+    "wordpressId": 14
+  },
+  {
+    "id": "reviews",
+    "name": "Reviews",
+    "description": "",
+    "wordpressId": 9
+  },
+  {
+    "id": "stories",
+    "name": "Stories",
+    "description": "",
+    "wordpressId": 6
+  },
+  {
+    "id": "the-horror-genre",
+    "name": "The Horror Genre",
+    "description": "",
+    "wordpressId": 25
+  },
+  {
+    "id": "vampires",
+    "name": "Vampires",
+    "description": "",
+    "wordpressId": 8
+  }
+]
