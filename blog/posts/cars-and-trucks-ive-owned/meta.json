@@ -1,0 +1,23 @@
+{
+  "id": "cars-and-trucks-ive-owned",
+  "title": "Cars and Trucks I’ve Owned",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "DSCN1728.jpg",
+  "excerpt": "In this post, I share photos, stories and information about all of the cars I have owned over the years.\n",
+  "categories": [
+    "cars-trucks",
+    "featured"
+  ],
+  "tags": [
+    "BMW",
+    "Dodge",
+    "Ford",
+    "Toyota"
+  ],
+  "publishedDate": "2025-08-24T14:11:01",
+  "updatedAt": "2025-09-06T22:21:41",
+  "wordpressId": 9788
+}
