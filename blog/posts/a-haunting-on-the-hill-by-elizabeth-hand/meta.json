@@ -10,13 +10,15 @@
   "categories": [
     "books",
     "ghosts",
-    "reviews"
+    "featured",
+    "horror"
   ],
   "tags": [
+    "Book Reviews",
     "Haunted Houses",
     "Spoiler"
   ],
   "publishedDate": "2025-08-05T15:03:45",
-  "updatedAt": "2025-08-08T14:44:24",
+  "updatedAt": "2026-02-21T17:56:53",
   "wordpressId": 314
 }

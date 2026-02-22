@@ -3,25 +3,25 @@
     "id": "books",
     "name": "Books",
     "description": "",
-    "wordpressId": 5
+    "wordpressId": 301
   },
   {
     "id": "general",
     "name": "General",
     "description": "",
-    "wordpressId": 1
+    "wordpressId": 4
   },
   {
     "id": "ghosts",
     "name": "Ghosts",
     "description": "",
-    "wordpressId": 7
+    "wordpressId": 889
   },
   {
     "id": "news",
     "name": "News",
     "description": "",
-    "wordpressId": 14
+    "wordpressId": 3
   },
   {
     "id": "reviews",
@@ -39,12 +39,132 @@
     "id": "the-horror-genre",
     "name": "The Horror Genre",
     "description": "",
-    "wordpressId": 25
+    "wordpressId": 890
   },
   {
     "id": "vampires",
     "name": "Vampires",
     "description": "",
     "wordpressId": 8
+  },
+  {
+    "id": "cars-trucks",
+    "name": "Cars &amp; Trucks",
+    "description": "",
+    "wordpressId": 540
+  },
+  {
+    "id": "development",
+    "name": "Development",
+    "description": "",
+    "wordpressId": 160
+  },
+  {
+    "id": "featured",
+    "name": "Featured",
+    "description": "",
+    "wordpressId": 315
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "description": "",
+    "wordpressId": 503
+  },
+  {
+    "id": "hardware",
+    "name": "Hardware",
+    "description": "",
+    "wordpressId": 516
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "description": "",
+    "wordpressId": 81
+  },
+  {
+    "id": "horror",
+    "name": "Horror",
+    "description": "",
+    "wordpressId": 804
+  },
+  {
+    "id": "linguistics",
+    "name": "Linguistics",
+    "description": "",
+    "wordpressId": 633
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "description": "",
+    "wordpressId": 6
+  },
+  {
+    "id": "notes",
+    "name": "Notes",
+    "description": "Short-form thoughts, observations and musings",
+    "wordpressId": 456
+  },
+  {
+    "id": "operating-systems",
+    "name": "Operating Systems",
+    "description": "",
+    "wordpressId": 432
+  },
+  {
+    "id": "privacy-tracking",
+    "name": "Privacy and Tracking",
+    "description": "",
+    "wordpressId": 128
+  },
+  {
+    "id": "programs-tools",
+    "name": "Programs and Tools",
+    "description": "",
+    "wordpressId": 44
+  },
+  {
+    "id": "projects",
+    "name": "Projects",
+    "description": "",
+    "wordpressId": 48
+  },
+  {
+    "id": "retro-software",
+    "name": "Retro Software",
+    "description": "",
+    "wordpressId": 311
+  },
+  {
+    "id": "software-architecture",
+    "name": "Software Architecture",
+    "description": "",
+    "wordpressId": 429
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "description": "",
+    "wordpressId": 880
+  },
+  {
+    "id": "trip-to-germany",
+    "name": "Trip To Germany",
+    "description": "",
+    "wordpressId": 556
+  },
+  {
+    "id": "work",
+    "name": "Work",
+    "description": "",
+    "wordpressId": 321
+  },
+  {
+    "id": "writing",
+    "name": "Writing",
+    "description": "",
+    "wordpressId": 334
   }
 ]

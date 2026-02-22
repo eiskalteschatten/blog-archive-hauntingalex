@@ -1,3 +1,5 @@
+<figure><img loading="lazy" decoding="async" src="img_5064-1.jpg" alt="German translation of A Haunting on the Hill by Elizabeth Hand"><figcaption>German translation of A Haunting on the Hill by Elizabeth Hand</figcaption></figure>
+
 *A Haunting on the Hill* by Elizabeth Hand is an interesting modern dive into the world originally created by Shirley Jackson in *[The Haunting of Hill House](https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House)*. It is a spooky tale that engages the reader and keeps them on the edge of their seat throughout the entire story.
 
 This is the description of the book from [Goodreads](https://www.goodreads.com/book/show/102188677-a-haunting-on-the-hill):
