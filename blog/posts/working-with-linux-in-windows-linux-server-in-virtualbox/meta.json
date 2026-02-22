@@ -1,0 +1,28 @@
+{
+  "id": "working-with-linux-in-windows-linux-server-in-virtualbox",
+  "title": "Working with Linux in Windows: Linux Server in VirtualBox",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "Tux.svg",
+  "excerpt": "I have written before about having to work in Windows 7 with Docker which only runs natively on Linux, macOS or Windows 10.\n",
+  "categories": [
+    "development",
+    "featured",
+    "operating-systems",
+    "technology"
+  ],
+  "tags": [
+    "Docker",
+    "Linux",
+    "mobaXterm",
+    "Servers",
+    "SSH",
+    "VirtualBox",
+    "Windows"
+  ],
+  "publishedDate": "2016-11-01T10:09:46",
+  "updatedAt": "2026-02-04T17:39:28",
+  "wordpressId": 1233
+}
