@@ -1,3 +1,5 @@
+<figure><img loading="lazy" decoding="async" src="haunted-soul.jpg" alt="AI-generated image of a haunted soul"><figcaption>AI-generated image of a haunted soul</figcaption></figure>
+
 Ever since I was a young child, I’ve been fascinated with tales of ghosts, vampires and all sorts of other horror subgenres. In fact, it’s rare that I read any fiction that isn’t a horror story of one kind or another which is why I’ve decided to start this blog.
 
 This is where I am planning on sharing my thoughts on what I read and what I think stands out about outstanding stories.
