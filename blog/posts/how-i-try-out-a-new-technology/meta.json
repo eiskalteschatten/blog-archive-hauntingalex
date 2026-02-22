@@ -1,0 +1,24 @@
+{
+  "id": "how-i-try-out-a-new-technology",
+  "title": "How I Try Out a New Technology",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "sven-mieke-fteR0e2BzKo-unsplash.jpg",
+  "excerpt": "Trying out a new technology can be a bit tricky, so a set of specs for a test app is necessary to give the tests meaning.\n",
+  "categories": [
+    "development",
+    "featured",
+    "projects",
+    "technology"
+  ],
+  "tags": [
+    "database",
+    "Programming languages",
+    "Web apps"
+  ],
+  "publishedDate": "2020-06-26T10:03:00",
+  "updatedAt": "2026-02-04T17:38:59",
+  "wordpressId": 2236
+}
