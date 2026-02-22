@@ -1,0 +1,23 @@
+{
+  "id": "express-js-5-is-now-stable",
+  "title": "Express.js 5 Is Now Stable",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "express.jpg",
+  "excerpt": "I just discovered that, after years of development, Express.js 5 has finally been released as stable. It&#8217;s been in development for so long that I&#8217;ve forgotten how long it&#8217;s been.\n",
+  "categories": [
+    "development",
+    "notes",
+    "programs-tools",
+    "technology"
+  ],
+  "tags": [
+    "Express",
+    "Node.js"
+  ],
+  "publishedDate": "2025-04-08T09:47:38",
+  "updatedAt": "2026-02-04T17:38:14",
+  "wordpressId": 8488
+}
