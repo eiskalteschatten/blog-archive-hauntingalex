@@ -1,0 +1,23 @@
+{
+  "id": "node-js-fixing-a-memory-leak-in-express-memorystore",
+  "title": "Node.js: Fixing a memory leak in Express MemoryStore",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "nodejs.svg",
+  "excerpt": "When using a combination of Express and krakenjs in your Node.js application, there is a feature enabled by default which automatically leads to a nasty memory leak.\n",
+  "categories": [
+    "development",
+    "featured",
+    "technology"
+  ],
+  "tags": [
+    "Express",
+    "memory leak",
+    "Node.js"
+  ],
+  "publishedDate": "2016-06-16T12:24:25",
+  "updatedAt": "2026-02-04T17:39:28",
+  "wordpressId": 1147
+}
