@@ -1,0 +1,18 @@
+{
+  "id": "ive-moved",
+  "title": "I’ve Moved!",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "excerpt": "Alex&#8217;s Thoughts has moved to http://blog.alexseifert.com! Please update your RSS subscriptions to http://feedproxy.google.com/alexseifertthoughts and bookmarks to http://blog.alexseifert.com. Thank you! &#8212; Alex\n",
+  "categories": [
+    "news"
+  ],
+  "tags": [
+    "Website"
+  ],
+  "publishedDate": "2010-05-05T21:30:45",
+  "updatedAt": "2026-02-11T15:35:43",
+  "wordpressId": 176
+}
