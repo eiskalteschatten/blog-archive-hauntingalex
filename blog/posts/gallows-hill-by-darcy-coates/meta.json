@@ -10,14 +10,16 @@
   "categories": [
     "books",
     "ghosts",
-    "reviews"
+    "featured",
+    "horror"
   ],
   "tags": [
+    "Book Reviews",
     "Haunted Houses",
     "Spoiler",
     "Zombies"
   ],
   "publishedDate": "2026-02-13T13:15:12",
-  "updatedAt": "2026-02-13T13:17:57",
+  "updatedAt": "2026-02-21T17:56:09",
   "wordpressId": 512
 }
