@@ -1,0 +1,26 @@
+{
+  "id": "windows-95-as-an-electron-app",
+  "title": "Windows 95 as an Electron App",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "windows95inelectron-1.jpg",
+  "excerpt": "An operating system that was released 25 years ago and required an entire computer to run can now instead be run in a browser window with an interpreted language.\n",
+  "categories": [
+    "featured",
+    "operating-systems",
+    "programs-tools",
+    "technology"
+  ],
+  "tags": [
+    "Electron",
+    "JavaScript",
+    "Retro computing",
+    "Windows",
+    "Windows 95"
+  ],
+  "publishedDate": "2020-08-01T11:36:00",
+  "updatedAt": "2026-02-04T17:37:02",
+  "wordpressId": 2338
+}
