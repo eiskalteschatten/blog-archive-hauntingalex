@@ -1,3 +1,5 @@
+<figure><img loading="lazy" decoding="async" src="img_3648-1.jpg" alt="Ghost Eaters by Clay McLeod Chapman"><figcaption>Ghost Eaters by Clay McLeod Chapman</figcaption></figure>
+
 *Ghost Eaters* is a novel I finished at the beginning of 2024 and I thought it was worth writing about because it was a unique take on the ghost story genre with a great twist at the end. It isn’t your typical ghost story in that it may have you rethinking your definition of what a ghost really is.
 
 I won’t get into too much detail here at the beginning as I don’t want to spoil the story for anyone. I will, however, post the book description as copied from Amazon so that you can get a feel for what the story is about:
