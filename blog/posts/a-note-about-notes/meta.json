@@ -1,0 +1,22 @@
+{
+  "id": "a-note-about-notes",
+  "title": "A Note About “Notes”",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "mick-haupt-dtTu8Ec_uAU-unsplash-scaled.jpg",
+  "excerpt": "I redesigned the Notes section of my blog so that it now uses a traditional blog format.\n",
+  "categories": [
+    "news",
+    "notes",
+    "projects"
+  ],
+  "tags": [
+    "Blog",
+    "My Websites"
+  ],
+  "publishedDate": "2025-04-06T12:51:03",
+  "updatedAt": "2025-08-23T15:36:51",
+  "wordpressId": 8391
+}
