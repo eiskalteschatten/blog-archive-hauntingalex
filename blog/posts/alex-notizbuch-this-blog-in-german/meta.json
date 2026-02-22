@@ -1,0 +1,23 @@
+{
+  "id": "alex-notizbuch-this-blog-in-german",
+  "title": "Alex’ Notizbuch: This Blog in German",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "blogging-in-German.jpg",
+  "excerpt": "Recently, I decided to start a blog in German. I named it Alex&#8217; Notizbuch which is a direct translation of Alex&#8217;s Notebook.\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "AlexSeifert.com",
+    "Blog",
+    "My Websites",
+    "WordPress"
+  ],
+  "publishedDate": "2025-05-09T13:56:12",
+  "updatedAt": "2025-08-23T15:36:51",
+  "wordpressId": 8806
+}
