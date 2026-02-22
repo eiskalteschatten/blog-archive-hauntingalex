@@ -1,3 +1,5 @@
+<figure><img loading="lazy" decoding="async" src="img_3961-1-e1728738829315-1024x980.jpg" alt="Stirrings in The Black House by Ambrose Ibsen"><figcaption>Stirrings in The Black House by Ambrose Ibsen</figcaption></figure>
+
 Most stories I write about on this blog are going to be among my favorites as writing about them gives me the chance to revisit the story and enjoy them a second time. *Stirrings in the Black House* by Ambrose Ibsen is definitely among my favorites.
 
 Before I get into what I liked about it, here is the description from the “back of the book” as copied from Amazon.com:

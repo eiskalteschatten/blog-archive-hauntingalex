@@ -10,14 +10,16 @@
   "categories": [
     "books",
     "ghosts",
-    "reviews"
+    "featured",
+    "horror"
   ],
   "tags": [
+    "Book Reviews",
     "Haunted Houses",
     "Spoiler",
     "Twist"
   ],
   "publishedDate": "2024-10-14T19:24:11",
-  "updatedAt": "2025-08-08T14:35:51",
-  "wordpressId": 253
+  "updatedAt": "2026-02-21T18:00:00",
+  "wordpressId": 11914
 }
