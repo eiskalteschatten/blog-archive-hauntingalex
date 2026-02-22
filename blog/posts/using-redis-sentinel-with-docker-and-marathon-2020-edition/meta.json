@@ -1,0 +1,26 @@
+{
+  "id": "using-redis-sentinel-with-docker-and-marathon-2020-edition",
+  "title": "Using Redis Sentinel with Docker and Marathon: 2020 Edition",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "martins-zemlickis-NPFu4GfFZ7E-unsplash.jpg",
+  "excerpt": "Using Redis Sentinel with Docker and Marathon is a relatively complex procedure that requires every instance of Redis to be able to communicate with all other instances.\n",
+  "categories": [
+    "development",
+    "featured",
+    "technology"
+  ],
+  "tags": [
+    "database",
+    "Docker",
+    "Docker Compose",
+    "Marathon",
+    "Redis",
+    "Redis Sentinel"
+  ],
+  "publishedDate": "2020-07-17T10:08:00",
+  "updatedAt": "2026-02-04T17:38:58",
+  "wordpressId": 3362
+}
