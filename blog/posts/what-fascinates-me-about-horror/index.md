@@ -1,3 +1,5 @@
+<figure><img loading="lazy" decoding="async" src="d9e04ee8-2dfc-46a9-937a-d63b7f2b3896.jpg" alt="AI-generated image of a man fascinated by a ghost"><figcaption>AI-generated image of a man fascinated by a ghost</figcaption></figure>
+
 Ever since I was old enough to understand what ghosts were, I have had an enduring fascination with the paranormal and horror in general. I’ve mainly read horror novels and *[Casper](https://en.wikipedia.org/wiki/Casper_\(film\))* was my all-time favorite movie growing up. In fact, I watched it so often that I managed to wear out the VHS we had. When I found out my wife had never seen the movie, I promptly ordered it on DVD to show her and it’s still sitting on my shelf ready for my son to watch when he is old enough.
 
 So what is it that captivates me about horror? This is a question I’ve been pondering for many years and have yet to come to a definitive conclusion for. Some people find the genre appalling or too scary to digest, but I’ve always been riveted by it and have never had much of an issue with the “scary” aspect.
