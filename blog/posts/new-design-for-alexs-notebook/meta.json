@@ -1,0 +1,20 @@
+{
+  "id": "new-design-for-alexs-notebook",
+  "title": "New Design for Alex’s Notebook",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "Screenshot-2020-04-25-at-13.00.48.png",
+  "excerpt": "I have been taking advantage of the additional time I&#8217;ve had at home during the coronavirus pandemic to redesign and rewrite a bunch of my websites using newer technologies. Version 3.0 of my blog was released this morning.\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "My Websites"
+  ],
+  "publishedDate": "2020-04-25T13:10:34",
+  "updatedAt": "2025-08-23T15:36:51",
+  "wordpressId": 1932
+}
